@@ -1,6 +1,0 @@
-.nrepl-port
-target
-pom.xml
-/config.clj
-resources/public/gen
-.lein-failures
